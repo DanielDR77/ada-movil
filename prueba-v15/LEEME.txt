@@ -1,0 +1,5 @@
+ADA Movil v15 - Prueba de acceso a Supabase
+
+Esta version conserva las funciones locales de v14. Anade un panel para iniciar sesion con una cuenta de prueba y consultar las familias visibles mediante las politicas RLS de Supabase. No sincroniza datos. La sesion se guarda solo en memoria y se pierde al recargar la pagina. No introducir datos medicos reales.
+
+Para publicar en GitHub Pages, sustituir los archivos del repositorio con el contenido de este ZIP. IMPORTANTE: revisar y probar antes de sustituir la version publicada.
