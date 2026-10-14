@@ -1,0 +1,7 @@
+ADA Movil v16 - PRUEBA de comidas compartidas
+
+Conserva las funciones locales de ADA v15 y agrega un panel separado para escribir y consultar comidas FICTICIAS en Supabase.
+El registro habitual de comidas, las pautas y los calculos siguen locales: NO estan sincronizados.
+Requiere cuentas ya autorizadas en ADA Familia y politicas RLS correctas.
+Usar solo datos inventados. No usar para decisiones medicas o dosis de insulina.
+Publicar los archivos DENTRO de la carpeta prueba-v16 del repositorio GitHub; no reemplazar la raiz.
