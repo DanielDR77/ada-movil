@@ -1,0 +1,24 @@
+{
+  "name": "ADA · Control de comidas",
+  "short_name": "ADA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#102c44",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "ADA: registro familiar de alimentos y comidas. Prototipo local no validado para dosificación de insulina."
+}

@@ -1,0 +1,10 @@
+ADA MOVIL v14 — PROTOTIPO INSTALABLE
+
+1. Para probar en un ordenador: abrir index.html.
+2. Para instalar en Android/iPhone: publicar el contenido de esta carpeta en un alojamiento HTTPS (por ejemplo GitHub Pages o Cloudflare Pages) y abrir esa URL desde el móvil.
+3. Android: menú del navegador > Instalar aplicación. iPhone: Safari > Compartir > Añadir a pantalla de inicio.
+4. Los datos se guardan SOLO en cada dispositivo; usar Inicio > Descargar copia para exportarlos.
+5. La sincronización familiar, las cuentas individuales y la actualización semanal de alimentos NO están conectadas todavía. No se simula que lo estén. Requieren configurar backend, permisos y fuentes de datos.
+6. No utilizar los cálculos de insulina del prototipo para decidir dosis ni administrar insulina.
+
+Archivos necesarios: index.html, manifest.webmanifest, service-worker.js, icon-192.png, icon-512.png, foods.json.
